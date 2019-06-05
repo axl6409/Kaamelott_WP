@@ -4,12 +4,14 @@
  * @version 1
  */
 /*
-Plugin Name: Citations Kaamelott
-Plugin URI: 
-Description: Ce plugin afficheras des citations tirées de la serie Kaamelott par Alexandre Astier, apportant une dose d'humour par jour. A consommer sans modération.
-Author: evilcurse64
+Plugin Name: Kaamelott Quotes
+Plugin URI: https://github.com/axl6409/Kaamelott_WP.git
+Description: Ce plugin affiche des citations tirées de la fameuse serie française "Kaamelott" créée par Alexandre Astier.
+Pour une petite dose d'humour en travaillant. A consommer sans modération.
+Author: axl6409
 Version: 1
 */
+
 
 function kaamelott_quote() {
 	/** These are the quote to Kaamelott */
